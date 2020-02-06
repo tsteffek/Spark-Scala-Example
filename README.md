@@ -1,6 +1,6 @@
 # Top 30 words in all of Shakespeare's work (case insensitive):
 
-### Split at `"\\W+"` (all non-alphanumericals)
+### Split at `"\W+"` (all non-alphanumericals)
 
 <pre>
 1: (the,27378)
